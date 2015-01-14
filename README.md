@@ -7,7 +7,7 @@ type: stayfresh
 
 ### Keep Pumping Those Coding Muscles
 
-<img src="https://s3.amazonaws.com/after-school-assets/practice.jpg" width="200px">
+<img src="https://after-school-assets.s3.amazonaws.com/practice.gif" width="200px" align="center">
 
 1 [Code Academy](http://www.codecademy.com/glossary/ruby/if-unless-elsif-and-else) track on if, unless, elsif, and else.
 
