@@ -1,9 +1,4 @@
----
-tags: if/else, if statement, kids
-languages: ruby
-level: 1
-type: stayfresh
----
+
 
 ### Keep Pumping Those Coding Muscles
 
