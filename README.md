@@ -8,4 +8,4 @@
 
 2 [Ruby Monk](http://rubymonk.com/learning/books/1-ruby-primer/chapters/8-control-structures/lessons/41-conditions-using-the-if-statement) chapter on conditions using the `if statement`.
 
-<a href='https://learn.co/lessons/hs-ruby4-stayfresh' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-ruby4-stayfresh' title='Keep Pumping Those Coding Muscles'>Keep Pumping Those Coding Muscles</a> on Learn.co and start learning to code for free.</p>
